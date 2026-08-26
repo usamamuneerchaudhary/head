@@ -10,6 +10,7 @@ use Laravel\Head\Schema\SchemaFactory;
 /**
  * @method static \Laravel\Head\Schema\Article article()
  * @method static \Laravel\Head\Schema\BlogPosting blogPosting()
+ * @method static \Laravel\Head\Schema\Event event()
  * @method static \Laravel\Head\Schema\Product product()
  * @method static \Laravel\Head\Schema\Offer offer()
  * @method static \Laravel\Head\Schema\Brand brand()
