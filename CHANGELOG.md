@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## v0.2.2 - 2026-08-26
+
+* Add event schema by [@martinbean](https://github.com/martinbean) in https://github.com/laravel/head/pull/13
+
 ## v0.2.1 - 2026-08-17
 
 ### What's Changed
